@@ -17,7 +17,7 @@
 ## 伺服器位址
 Discord：請向Owner傳送[郵件](mailto:hosinoeiji@gmail.com?subject=獲取伺服器ip位址&body=您好，我想加入您的伺服器。)申請伺服器位址。
 
-QQ Group：請直接at群主或者at```@淋淋``` ```@世界拒绝了冤种Sm_mu```
+QQ Group：看群公告
 
 ## 客戶端
 
