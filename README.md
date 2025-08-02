@@ -14,6 +14,11 @@
 
 伺服器沒有嚴格的規則去約束玩家，只要求作為玩家的基本底綫和道德。
 
+## 伺服器位址
+Discord：請向Owner傳送[郵件](mailto:hosinoeiji@gmail.com?subject=獲取伺服器ip位址&body=您好，我想加入您的伺服器。)申請伺服器位址。
+
+QQ Group：請直接at群主或者at```@淋淋``` ```@世界拒绝了冤种Sm_mu```
+
 ## 客戶端
 
 完全不去安裝任何mod是可以進入伺服器的，但是我建議您使用已經配置好的[整合包](https://github.com/HosinoEJ/TBS-three-body-ver.2/releases/tag/ceach)
