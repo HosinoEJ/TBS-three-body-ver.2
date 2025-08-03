@@ -117,7 +117,7 @@ QQ Group：看群公告
 ![!!td tag](https://raw.githubusercontent.com/Flash-Z/MCDR-ToDoList/main/assets/Snipaste_2023-03-19_10-01-54.png)
 
 | 指令 | 用途 |
-| - | - |
+| --- | --- |
 | !!td | 展示帮助界面 |
 | !!td list | 展示ToDo列表 |
 | !!td add \<name> (\<detail> \<progress>) | 添加项目,后两项为可选参数 |
@@ -127,6 +127,7 @@ QQ Group：看群公告
 | !!td tag \<tag> | 列出\<tag>下的项目 |
 | !!td tag add \<name> \<tag> | 为\<name>项目添加\<tag> |
 | !!td tag del \<name> \<tag> | 为\<name>项目删除\<tag> |
+
 注：指令第二项也可只输入首字母，如 !!td list->!!td l
 
 11.urlparser
